@@ -7,4 +7,4 @@ Hello, I'm Rj, an IT Professional
 
 
 - <b>Post Installation Of OsTicket 
-  - [Post Installation Of OsTicket] (https://github.com/rjgreene87/post-installation-of-osticket)
+  - [Post Installation Of OsTicket](https://github.com/rjgreene87/post-installation-of-osticket)
