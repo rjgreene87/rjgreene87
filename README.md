@@ -6,4 +6,5 @@ Hello, I'm Rj, an IT Professional
   - [osTicket: Prerequisites and Installation](https://github.com/rjgreene87/osticket-prereqs)
 
 
--Post Installation Of OsTicket 
+- <b>Post Installation Of OsTicket 
+  - [Post Installation Of OsTicket] (https://github.com/rjgreene87/post-installation-of-osticket)
